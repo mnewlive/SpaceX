@@ -54,7 +54,7 @@ Below are the screeshots of the application
 * RxJava2 for implementing Observable pattern.
 * Dagger 2 for dependency injection.
 * Retrofit 2 for API integration.
-* Gson for serialisation.
+* Gson for serialization.
 * Picasso for image loading.
 * Timber for planting logs.
 
